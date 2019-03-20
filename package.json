@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "name": "workout-app-code-along",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rawgher/workout-app-code-along.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rawgher/workout-app-code-along/issues"
+  },
+  "homepage": "https://github.com/Rawgher/workout-app-code-along#readme",
+  "workspaces": [
+    "packages/*"
+  ]
+}
